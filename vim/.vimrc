@@ -29,6 +29,8 @@ call plug#begin()
 
 " List your plugins here
 Plug 'dense-analysis/ale'
+Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'morhetz/gruvbox'
 
 call plug#end()
 
